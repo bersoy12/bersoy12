@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Data Analyst</h1>
+<h1 align="center">Hi 👋, I'm a Chatbot Developer</h1>
 <h3 align="center">Excited about data transforming industries</h3>
 
 - 🔭 I’m currently working on **Spelling Correction using Deep Neural Networks**
